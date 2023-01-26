@@ -276,7 +276,7 @@ marquee,
     background-size: cover;
 }
 .page-header1 {
-    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/inaug_susag3.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/court-700x424.jpeg) center center no-repeat;
     background-size: cover;
     height: 70vh;
 }
@@ -705,20 +705,6 @@ marquee,
  .bgColor{
     background-color: #3240c3;
  }
-
-  /* reduced the display of h6*/
-  /* @media (max-width: 478px) {
-
-    a > h6{
-        width: min-content;
-        padding: 10px;       
-    }
-
-    h6 {
-       width: min-content;
-    }
-} */
- 
 
   .img-wrap {    
     
